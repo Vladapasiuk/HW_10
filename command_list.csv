@@ -1,0 +1,1083 @@
+    1  npm run dev
+    2  npm run dev
+    3  npm run dev
+    4  npm run dev
+    5  pnpm install --save-dev @trivago/prettier-plugin-sort-imports
+    6  pnpm i -D @vue/compiler-sfc@
+    7  pnpm i -D prettier-plugin-organize-imports
+    8  npm i
+    9  npm run dev
+   10  npm run dev
+   11  npm run dev
+   12  npm run dev
+   13  pnpm run dev
+   14  pnpm run dev
+   15  pnpm i -D sass
+   16  pnpm i -D @js-temporal/polyfill
+   17  pnpm i -D snowpack
+   18  npm i 
+   19  pnpm i
+   20  pmpm i -S classnames
+   21  pnpm i -S classnames
+   22  npm run dev
+   23  pnpm run dev
+   24  pnpm run dev
+   25  pnpm run dev
+   26  pnpm run dev
+   27  pnpm run lint
+   28  pnpm run lint
+   29  pnpm run lint
+   30  psql
+   31  psql
+   32  psql
+   33  sudo -u postgres dropuser medstar_hospital -e
+   34  dropuser medstar_hospital
+   35  psql
+   36  npm init -y
+   37  npm i -D prisma typescript ts-node @types/node
+   38  npx tsc --init
+   39  npm prisma init
+   40  npx prisma init
+   41  psql
+   42  node js/index.js
+   43  node js/index.js
+   44  node js/index.js
+   45  node js/index.js
+   46  node js/index.js
+   47  node js/index.js
+   48  node js/index.js
+   49  node js/index.js
+   50  node js/index.js
+   51  node js/index.js
+   52  node js/index.js
+   53  node js/index.js
+   54  node js/index.js
+   55  node js/index.js
+   56  node js/index.js
+   57  node js/index.js
+   58  node js/index.js
+   59  node js/index.js
+   60  node js/index.js
+   61  node js/index.js
+   62  node js/index.js
+   63  node js/index.js
+   64  node js/index.js
+   65  node js/index.js
+   66  node js/index.js
+   67  node js/index.js
+   68  node js/index.js
+   69  node js/index.js
+   70  node js/index.js
+   71  node js/index.js
+   72  node js/index.js
+   73  node js/index.js
+   74  node js/index.js
+   75  node js/index.js
+   76  node js/index.js
+   77  node js/index.js
+   78  node js/index.js
+   79  node js/index.js
+   80  node js/index.js
+   81  node js/index.js
+   82  node js/index.js
+   83  node js/index.js
+   84  node js/index.js
+   85  node js/index.js
+   86  node js/index.js
+   87  node js/index.js
+   88  node js/index.js
+   89  node js/index.js
+   90  node js/index.js
+   91  node js/index.js
+   92  node js/index.js
+   93  node js/index.js
+   94  node js/index.js
+   95  node js/index.js
+   96  node js/index.js
+   97  node js/index.js
+   98  node js/index.js
+   99  node js/index.js
+  100  node js/index.js
+  101  node js/index.js
+  102  node js/index.js
+  103  node js/index.js
+  104  node js/index.js
+  105  node js/index.js
+  106  node js/index.js
+  107  node js/index.js
+  108  node js/index.js
+  109  node js/index.js
+  110  node js/index.js
+  111  node js/index.js
+  112  node js/index.js
+  113  node js/index.js
+  114  node js/index.js
+  115  node js/index.js
+  116  node js/index.js
+  117  node js/index.js
+  118  node js/index.js
+  119  node js/index.js
+  120  node js/index.js
+  121  node js/index.js
+  122  node js/index.js
+  123  node js/index.js
+  124  node js/index.js
+  125  node js/index.js
+  126  node js/index.js
+  127  node js/index.js
+  128  node js/index.js
+  129  node js/index.js
+  130  node js/index.js
+  131  node js/index.js
+  132  node js/index.js
+  133  node js/index.js
+  134  node js/index.js
+  135  node js/index.js
+  136  node js/index.js
+  137  node js/index.js
+  138  node js/index.js
+  139  node js/index.js
+  140  node js/index.js
+  141  node js/index.js
+  142  node js/index.js
+  143  node js/index.js
+  144  node js/index.js
+  145  node js/index.js
+  146  node js/index.js
+  147  node js/index.js
+  148  node js/index.js
+  149  node js/index.js
+  150  node js/index.js
+  151  npm i -D prettier
+  152  prisma format
+  153  npx @prisma/cli format -h
+  154  npm i -D prettier-plugin-prisma
+  155  npx prisma format
+  156  npx prisma format
+  157  npx prisma format
+  158  npx prisma format
+  159  npx prisma migrate dev --name init \n
+  160  npm i --save @nestjs/core @nestjs/common rxjs reflect-metadata
+  161  npm run dev
+  162  npm run start:dev
+  163  npm run start
+  164  npm run dev
+  165  npm i --save @nestjs/cli
+  166  npm run dev
+  167  npm i -S rimraf
+  168  npm run dev
+  169  npm start
+  170  npm run build
+  171  npm run dev
+  172  npm i -D @nestjs/schematics
+  173  npm run build
+  174  npm run dev
+  175  npm run prebuild
+  176  npm run start
+  177  npm run build
+  178  npm run start
+  179  npm run start
+  180  npm run build
+  181  npm run start
+  182  npm run start
+  183  npm run build
+  184  npm i -S @nestjs/platform-express
+  185  npm run build
+  186  npm run start
+  187  npm run start
+  188  npm run start
+  189  npm run dev
+  190  npm run dev
+  191  npm run dev
+  192  npm run dev
+  193  npm run dev
+  194  npm run dev
+  195  npx prisma migrate dev --name not-mandatory-team-for-user
+  196  prisma generate
+  197  prisma generate
+  198  npm run dev
+  199  npm run dev
+  200  npm run dev
+  201  npm run dev
+  202  npm run dev
+  203  npm run dev
+  204  npm run dev
+  205  sudo lsof -i :3000
+  206  sudo lsof -i :3000
+  207  kill -9 3760
+  208  sudo lsof -i :3000
+  209  sudo lsof -i :3000
+  210  kill -9 8163
+  211  sudo lsof -i :3000
+  212  sudo lsof -i :3000
+  213  kill -9 9157
+  214  sudo lsof -i :3000
+  215  npm run dev
+  216  prisma migrate dev --name team-tournament-unique-key
+  217  prisma migrate dev --name team-tournament-unique-key
+  218  prisma migrate dev --name team_tournament_unique_key
+  219  npx prisma migrate dev --name team_tournament_unique_key
+  220  prisma generate
+  221  npx prisma generate
+  222  npm run dev
+  223  npm run dev
+  224  npm run dev
+  225  npm run dev
+  226  npm run dev
+  227   npm i -g @nestjs/cli
+  228  nest -v
+  229  nest g module division
+  230  $ nest g module division
+  231  npm i -g @nestjs/cli
+  232  nest g module division
+  233  cd src
+  234  nest g module division
+  235  nest g module division
+  236  npm uninstall -g @nestjs/cli
+  237  nest g module division
+  238  nest g module division
+  239  nest info
+  240  nest info
+  241  npm run dev
+  242  npx prisma format
+  243  npx prisma format
+  244  npx prisma reset
+  245  npx prisma migrate reset
+  246  npx prisma migrate reset
+  247  npx prisma migrate reset
+  248  npx prisma migrate status
+  249  npx prisma generate
+  250  npx prisma migrate dev --name added-tournament-type
+  251  nest g module teams
+  252  cd ./src
+  253  nest g module teams
+  254  cd ../
+  255  npx prisma migrate dev --name team-default-date
+  256  npm run dev
+  257  npm run dev
+  258  cd Desktop/programming
+  259  ls
+  260  cd JS
+  261  ls
+  262  npm create vite
+  263  npm i -S classnames
+  264  npm i -S @mantine/core @mantine/hooks @emotion/react
+  265  git init
+  266  git branch -M master
+  267  git remote add origin git@github.com:VladKopylov/square-game.git
+  268  git push -u origin master
+  269  ssh-keygen -R github.com
+  270  git push -u origin master
+  271  npm i -D prettier
+  272  npm add -D sass
+  273  npm start
+  274  npm run dev
+  275  npm run dev
+  276  npm run dev
+  277  npm run dev
+  278  npm run build
+  279  npm run dev
+  280  npm run dev
+  281  npm run dev
+  282  cd
+  283  ls
+  284  cd Desktop/programming/J
+  285  cd Desktop/programming/JS
+  286  ls
+  287  cd ./nocturne
+  288  ls
+  289  nest new joyjoy
+  290  npm i -g @nestjs/cli
+  291  npm i -g @nestjs/cli
+  292  nest new joyjoy
+  293  nest g module teams
+  294  nest g module teams 
+  295  nest g controller teams 
+  296  nest g s teams 
+  297  nest generate mo modules/leagues
+  298  nest generate s  modules/leagues
+  299  nest generate co modules/leagues
+  300  npm install prisma --save-dev
+  301  npx prisma init
+  302  prisma db pull
+  303  npx prisma db pull
+  304  npx prisma db pull
+  305  npx prisma generate
+  306  npm run dev
+  307  npm run start:dev
+  308  npm run start:dev
+  309  npx prisma migrate dev --name unique-league-rank-tournament
+  310  cd Desktop/programming/JS/livecoding/
+  311  npm create vite@latest mint
+  312  cd mint
+  313  npm i
+  314  npm run dev
+  315  npm add -D sass
+  316  npm i -D prettier
+  317  npm run dev
+  318  ls
+  319  cd Documents
+  320  ls
+  321  cd разный\ хлам
+  322  ls
+  323  cd mint
+  324  touch sss
+  325  ls -al ~/.ssh
+  326  cat ~/.ssh/id_rsa.pub
+  327  cat ~/.ssh/id_ed25519.pub
+  328  ssh -T -ai ~/.ssh/id_rsa git@github.com
+  329  echo fs.inotify.max_user_watches=524288 | sudo tee -a /etc/sysctl.conf && sudo sysctl -p
+  330  git config user.name 'Vlad Kopylov'
+  331  git config user.email 'vlad.kopylov@mint.ai'
+  332  git config
+  333  git config --list
+  334  nvm i 18
+  335  nvm -v
+  336  nvm --version
+  337  corepack enable
+  338  cd Desktop/work
+  339  ls
+  340  cd mint
+  341  git clone git@github.com:mint-ai/mint-ui.git
+  342  git clone git@github.com:mint-ai/mint-ui.git
+  343  git@github.com:mint-ai/mint-ui.git
+  344  git clone git@github.com:mint-ai/mint-ui.git
+  345  git clone git@github.com:mint-ai/mint-ui.git
+  346  cat ~/.ssh/id_ed25519.pub
+  347  ssh-add ~/.ssh/id_ed25519
+  348  git clone git@github.com:mint-ai/mint-ui.git
+  349  git config user
+  350  git config user.name
+  351  git config user.email
+  352  git config user.age
+  353  yarn
+  354  yarn prepare
+  355  yarn start
+  356  cd package/notifications
+  357  cd packages/notifications
+  358  yarn watch
+  359  yarn start
+  360  yarn start
+  361  yarn watch
+  362  yarn watch
+  363  ls
+  364  yarn start
+  365  cd packages/notifications
+  366  yarn watch
+  367  git config user.name
+  368  ssh -T git@github.com
+  369  ssh -T git@github.com:mint-ai/mint-ui.git
+  370  git remote -v
+  371  ssh -T git@github.com
+  372  ls -al ~/.ssh
+  373  ssh -v
+  374  ssh -vT git@github.com
+  375  ssh -T git@github.com
+  376  git remote set-url origin git@github.com:mint-ai/mint-ui.git
+  377  ssh -T git@github.com
+  378  git remote -v
+  379  ssh-agent
+  380  ssh-agent
+  381  ls -al ~/.ssh
+  382  ssh-add -K ~/.ssh/id_rsa
+  383  git remote -v
+  384  ssh -T git@github.com
+  385  ls -al ~/.ssh
+  386  ssh-add -K ~/.ssh/id_ed25519
+  387  ssh -T git@github.com
+  388  ssh-add --apple-use-keychain  ~/.ssh/id_rsa
+  389  ssh -T git@github.com
+  390  git remote -v
+  391  git remote rm origin
+  392  git remote -v
+  393  git remote add origin git@github.com:mint-ai/mint-ui.git
+  394  git remote -v
+  395  ssh -T git@github.com
+  396  ssh-add -L
+  397  ssh-add --apple-use-keychain  ~/.ssh/id_ed25519
+  398  ssh-add -L
+  399  ssh -T git@github.com
+  400  cat ~/.ssh/id_ed25519.pub
+  401  ssh -T git@github.com
+  402  ssh -T git@github.com
+  403  ssh-add -L
+  404  ssh-add -L
+  405  git remote -v
+  406  ssh-add -L
+  407  git remote -v
+  408  ssh -T git@github.com
+  409  yarn
+  410  cd ~/.ssh
+  411  ls
+  412  ssh-add id_ed25519.pub
+  413  ssh-add id_ed25519
+  414  ssh-add id_ed25519
+  415  ssh-add -D
+  416  ssh -T git@github.com
+  417  ssh -T git@github.com:mint-ai/mint-ui.git
+  418  ssh-add ~/.ssh/id_ed25519
+  419  ssh -T git@github.com:mint-ai/mint-ui.git
+  420  ssh-add -l
+  421  git config
+  422  git config --show-origin
+  423  git remote show origin
+  424  git remote show origin
+  425  ssh -T git@github.com:mint-ai/mint-ui.git
+  426  git remote -v
+  427  ssh -T git@github.com
+  428  ssh-add -l
+  429  ssh-add -L
+  430  ssh -T git@github.com
+  431  git remote -v
+  432  yarn start
+  433  cd packages/notifications
+  434  yarn watch
+  435  cd ~/Desktop/programming/JS/nocturne/joyjoy
+  436  npm run dev
+  437  npm run start:dev
+  438  cd ~/Desktop/programming/JS/nocturne/joyjoy
+  439  npx prisma migrate dev --name unique-team-tournament-participant
+  440  ssh -T git@github.com
+  441  ssh-agent -l
+  442  ssh-add -l
+  443  ssh-add --apple-use-keychain ~/.ssh/id_ed25519
+  444  ssh-add -l
+  445  ssh -T git@github.com
+  446  git -T git@github.com
+  447  git -T git@github.com
+  448  ssh -T git@github.com
+  449  git -T git@github.com
+  450  ssh -T git@github.com
+  451  ssh -T git@github.com
+  452  npm run dev
+  453  cd ./packages/notifications
+  454  yarn watch
+  455  yarn start
+  456  cd ~/.ssh
+  457  ls
+  458   ssh-add --apple-use-keychain id_ed25519
+  459  cd packages/planning
+  460  yarn test
+  461  yarn test
+  462  ssh -T git@github.com
+  463  ssh-add -l
+  464  ssh-add -l
+  465  ssh -T git@github.com
+  466  нфкт іефке
+  467  yarn start
+  468  yarn 
+  469  yarn build
+  470  yarn start
+  471  yarn start
+  472  cd ./packages/planning
+  473  yarn watch
+  474  yarn watch
+  475  ssh -T git@github.com
+  476  ssh-add -l
+  477   ssh-add -K ~/.ssh/ id_ed25519
+  478   ssh-add -K ~/.ssh/id_ed25519
+  479  ssh -T git@github.com
+  480  cd ../
+  481  cd ../
+  482  cd ./packages/planning
+  483  yarn watch
+  484  yarn watch
+  485  ssh -T git@github.com
+  486   ssh-add -K ~/.ssh/id_ed25519
+  487  ssh-add -l
+  488  git pull
+  489  yarn start
+  490  yarn run LOCAL_API="https://mplatform-team-l-stack-1.dev.mint.ai" yarn start
+  491  yarn start:local
+  492  yarn start:local
+  493  git pull
+  494  yarn start:local
+  495  yarn start
+  496  yarn start
+  497  cd ./packages/planning
+  498  yarn watch
+  499  yarn -v
+  500  yarn -v
+  501  cd ../../
+  502  cd ./packages/planning
+  503  yarn watch
+  504  cd ../../
+  505  cd ./packages/planning
+  506  yarn watch
+  507  cd packages/notifications
+  508  yarn watch
+  509  git pull
+  510  git status
+  511  git merge --abort
+  512  git status
+  513  git log
+  514  git merge --no-ff origin/feature/team-l_update-ui
+  515  git status
+  516  git add packages/planning
+  517  git status
+  518  yarn build
+  519  git status
+  520  git add packages/planning
+  521  git status
+  522  git commit -m "resolve conflicts"
+  523  git reset packages/search/locales
+  524  git status
+  525  git commit -m "resolve conflicts"
+  526  git status
+  527  git push
+  528  yarn prepare
+  529  yarn prepare
+  530  git status
+  531  git status
+  532  git reset --soft d340b7b116e6b10b06173b9593330012921f9ddc
+  533  git reflog
+  534  git reset HEAD@{1}
+  535  git status
+  536  git status
+  537  git rm -r packages/search/locales
+  538  git commit -a
+  539  git status
+  540  git status
+  541  git push
+  542  git status
+  543  git commit -a
+  544  git commit -a "deleted search locales"
+  545  git commit -a -m "deleted search locales"
+  546  git status
+  547  git push
+  548  git status
+  549  git checkout origin/features/team-l_update-ui -- packages/search/locales
+  550  git checkout origin/feature/team-l_update-ui -- packages/search/locales
+  551  git status
+  552  git status
+  553  git reset --hard HEAD^
+  554  git status
+  555  git status
+  556  git pull
+  557  git pull
+  558  yarn test packages/planning
+  559  cd packages/planning
+  560  yarn test packages/planning
+  561  ssh -T git@github.com
+  562   ssh-add -K ~/.ssh/id_ed25519
+  563  ssh -T git@github.com
+  564  yarn start
+  565  yarn -v
+  566  yarn start
+  567  yarn start
+  568  yarn start:local
+  569  yarn start
+  570  yarn start
+  571  yarn start:local
+  572  yarn build
+  573  yarn start:local
+  574  yarn start:local
+  575  yarn start:local
+  576  cd packages/planning
+  577  yarn watch
+  578  yarn watch
+  579  yarn test
+  580  yarn watch
+  581  yarn watch
+  582  git pull
+  583  cd packages/planning
+  584  yarn test
+  585  yarn start:local
+  586  yarn start:local
+  587  yarn start:local
+  588  yarn start:local
+  589  yarn start:local
+  590  yarn build
+  591  yarn start:local
+  592  yarn build
+  593  yarn start:local
+  594  yarn build
+  595  yarn build
+  596  yarn start:local
+  597  cd packages/planning
+  598  yarn watch
+  599  git push
+  600  git push --set-upstream origin feature/PDT-33472/reco-exit-to-suggestion
+  601  ssh -T git@github.com
+  602  ssh-add -l
+  603  ssh-add -K ~/.ssh/id_ed25519
+  604  ssh-add --apple-use-keychain  ~/.ssh/id_ed25519
+  605  ssh-add -l
+  606  ssh -T git@github.com
+  607  git pull
+  608  yarn
+  609  yarn start
+  610  yarn start:local
+  611  cd packages/notifications
+  612  yarn test
+  613  cd packages/notifications
+  614  yarn watch
+  615  yarn start:local
+  616  cd packages/notifications
+  617  yarn watch
+  618  ssh-add --apple-use-keychain ~/.ssh/id_ed25519
+  619  ssh -T git@github.com
+  620  yarn start:local
+  621  git pull
+  622  yarn start:local
+  623  yarn start:local
+  624  cd packages/notifications
+  625  yarn watch
+  626  npm run start
+  627  npm run DEV
+  628  npm run dev
+  629  npm run watch
+  630  npm run start:dev
+  631  npm run start:dev
+  632  npm run start:local
+  633  cd packages/notifications
+  634  yarn watch
+  635  ssh-add --apple-use-keychain ~/.ssh/id_ed25519
+  636  git pull
+  637  yarn start:local
+  638  cd packages/notifications
+  639  yarn watch
+  640  git status
+  641  git remote add origin git@github.com:VladKopylov/goal-backend.git
+  642  git push -u origin master
+  643  npm install --save-dev  @types/ramda
+  644  cd packages/planning
+  645  yarn watch
+  646  git pull
+  647  ssh-add --apple-use-keychain ~/.ssh/id_ed25519
+  648  yarn start:local
+  649  yarn start
+  650  yarn start
+  651  yarn start
+  652  ssh -T git@github.com
+  653  yarn start
+  654  yarn start
+  655  yarn start:local
+  656  yarn start:local
+  657  yarn start:local
+  658  yarn start:local
+  659  cd packages/notifications
+  660  yarn watch
+  661  git pull
+  662  yarn watch
+  663  yarn test
+  664  git push
+  665  git push --set-upstream origin feature/PDT-33998/calendar-doesnt-affect-alert
+  666  ssh -T git@github.com
+  667  yarn start:local
+  668  ssh -T git@github.com
+  669  yarn start:local
+  670  yarn start:local
+  671  yarn start:local
+  672  yarn start
+  673  yarn start
+  674  cd packages/notifications
+  675  yarn watch
+  676  yarn test
+  677  yarn watch
+  678  yarn watch
+  679  git pull
+  680  git pull
+  681  cd packages/notifications
+  682  yarn mint codemod i18n export --format xlsx --locale it
+  683  yarn mint codemod i18n export --format xlsx --locale it
+  684  cd ../
+  685  cd ../
+  686  yarn mint codemod i18n export --format xlsx --locale it
+  687  ssh -T git@github.com
+  688  cd ./~ssh
+  689  cd ~/.ssh
+  690  ls
+  691  ssh-add --apple-use-keychain ~/.ssh/id_rsa
+  692  ssh -T git@github.com
+  693  ssh-add -l
+  694  ssh -T git@github.com
+  695  cd ~/.ssh
+  696  ls
+  697  ssh -T git@github.com
+  698  ssh -T git@work
+  699  ssh -T git@personal
+  700  cd ~/.ssh
+  701  ls
+  702  touch config
+  703  ls
+  704  ssh-keygen -t ed25519
+  705  ssh -T git@github.com
+  706  ssh-add -l
+  707  git pull
+  708  ssh -T git@personal
+  709  ssh -T git@personal
+  710  ssh -T git@github.com
+  711  ssh -T git@work
+  712  yarn mint codemod i18n export --format xlsx --locale it
+  713  yarn start
+  714  yarn build
+  715  yarn start
+  716  yarn start
+  717  yarn start:local
+  718  yarn start:local
+  719  cd packages/notifications
+  720  yarn watch
+  721  yarn start:local
+  722  cd packages/notifications
+  723  yarn watch
+  724  cd packages/notifications
+  725  yar test
+  726  yarn test
+  727  yarn test
+  728  yarn test
+  729  yarn test
+  730  yarn start:local
+  731  yarn start
+  732  yarn start:local
+  733  yarn start:local
+  734  yarn start:local
+  735  yarn start
+  736  yarn start
+  737  yarn start:local
+  738  yarn start
+  739  cd packages/notifications
+  740  yarn build
+  741  yarn build
+  742  yarn i18n:extract
+  743  cd packages/notifications
+  744  yarn watch
+  745  yarn start:local
+  746  yarn start
+  747  yarn start
+  748  yarn start
+  749  cd packages/notifications && yarn watch
+  750  cd packages/notifications && yarn i18n:extract
+  751  yarn test
+  752  yarn mint codemod i18n export --format xlsx --locale it
+  753  cd packages/notifications && yarn test
+  754  cd packages/notifications && yarn test
+  755  yarn test
+  756  yarn test
+  757  yarn i18n:extract
+  758  yarn test
+  759  yarn start
+  760  yarn start:local
+  761  yarn mint codemod i18n import --format xlsx --source ~/Downloads/i18n-it.xlsx
+  762  yarn mint codemod i18n import --format xlsx --source ~/Downloads/i18n-it.xlsx
+  763  yarn start
+  764  cd packages/notifications && yarn watch
+  765  yarn start:local
+  766  yarn start:local
+  767  cd packages/notifications && yarn test
+  768  yarn watch
+  769  cd packages/notifications && yarn watch
+  770  cd packages/planning && yarn watch
+  771  yarn start 
+  772  yarn start 
+  773  yarn start:local
+  774  git pull
+  775  yarn start:local
+  776  yarn start:local
+  777  yarn
+  778  yarn build
+  779  yarn start:local
+  780  yarn watch
+  781  cd packages/planning && yarn watch
+  782  rustc --version
+  783  rustc update
+  784  rustup update
+  785  rustc --version
+  786  cd Desktop
+  787  ls
+  788  cd programming
+  789  ls
+  790  cd Rust
+  791  ls
+  792  cargo new comeback
+  793  cargo run
+  794  yarn --version
+  795  yarn watch
+  796  yarn --version
+  797  corepack enable\n
+  798  cd ../
+  799  cd ../
+  800  cd packages/planning && yarn watch
+  801  yarn start:local
+  802  cd packages/planning && yarn watch
+  803  cargo run
+  804  cargo run
+  805  cargo run
+  806  cargo run
+  807  cls
+  808  clear
+  809  cargo run
+  810  clear
+  811  cargo run
+  812  cargo run
+  813  cargo runclear
+  814  cargo runclear
+  815  clear
+  816  cargo run
+  817  cargo runclear
+  818  clear
+  819  cargo run
+  820  cargo run
+  821  clear
+  822  cargo run
+  823  cargo run
+  824  cargo run
+  825  cargo run
+  826  cargo run
+  827  cargo run
+  828  cargo run
+  829  cargo run
+  830  cargo run
+  831  cargo run
+  832  cargo run
+  833  cargo run
+  834  cargo run
+  835  cargo run
+  836  cargo run
+  837  cargo run
+  838  cargo run
+  839  cargo run
+  840  cargo run
+  841  cargo run
+  842  cargo run
+  843  cargo run
+  844  cargo run
+  845  cd packages/planning && yarn test
+  846  git pull
+  847  git status
+  848  git push
+  849  yarn start:local
+  850  yarn start:local
+  851  yarn start:local
+  852  yarn start:local
+  853  yarn start:local
+  854  cd packages/planning && yarn watch
+  855  cd packages/planning && yarn watch
+  856  cargo run
+  857  cargo run
+  858  cargo run
+  859  git pull
+  860  yarn start:local
+  861  cd packages/notifications && yarn watch
+  862  cargo run
+  863  cargo run
+  864  cargo run
+  865  cargo run
+  866  cargo run
+  867  cargo run
+  868  cargo run
+  869  cargo run
+  870  cargo run
+  871  cargo run
+  872  cargo run
+  873  cargo run
+  874  cargo run
+  875  cargo run
+  876  cargo run
+  877  cargo run
+  878  cargo run
+  879  cd packages/planning && yarn watch
+  880  yarn start:local
+  881  cd packages/notifications && yarn watch
+  882  cd packages/notifications && yarn test
+  883  yarn start:local
+  884  yarn start:local
+  885  yarn build
+  886  yarn build
+  887  yarn start:local
+  888  cd packages/notifications && yarn watch
+  889  yarn watch
+  890  cd packages/notifications && yarn test
+  891  yarn test
+  892  cd packages/planning && yarn watch
+  893  yarn start:local
+  894  yarn start:local
+  895  yarn start
+  896  yarn start:local
+  897  yarn start:local
+  898  yarn build
+  899  yarn start:local
+  900  git reset –hard
+  901  git reset -–hard
+  902  git reset
+  903  git reset
+  904  git reset
+  905  it clean -nfd
+  906  git clean -nfd
+  907  it clean -nfd :/
+  908  git clean -nfd :/
+  909  git checkout .
+  910  git clean -fdx
+  911  yarn start:local
+  912  yarn start:local
+  913  LOCAL_API="https://mplatform-team-l-stack-1.dev.mint.ai" yarn start
+  914  LOCAL_API="https://mplatform-team-l-stack-1.dev.mint.ai" yarn start
+  915  cd packages/planning && yarn watch
+  916  LOCAL_API="https://mplatform-team-l-stack-1.dev.mint.ai" yarn start
+  917  cd packages/planning && yarn watch
+  918  yarn watch
+  919  git pull
+  920  yarn build
+  921  LOCAL_API="https://mplatform-team-l-stack-1.dev.mint.ai" yarn start
+  922  cargo rung
+  923  cargo run
+  924  cargo run
+  925  cargo run
+  926  cargo run
+  927  cargo run
+  928  cargo run
+  929  cargo run
+  930  cargo run
+  931  cargo run
+  932  cargo run
+  933  cargo run
+  934  git pull
+  935  git push
+  936  cd packages/planning 
+  937  yarn test
+  938  cd packages/planning && yarn watch
+  939  yarn prepare
+  940  LOCAL_API="https://mplatform-team-l-stack-1.dev.mint.ai" yarn start
+  941  LOCAL_API="https://mplatform-team-l-stack-1.dev.mint.ai" yarn start
+  942  LOCAL_API="https://mplatform-team-l-stack-1.dev.mint.ai" yarn start
+  943  LOCAL_API="https://mplatform-team-l-stack-1.dev.mint.ai" yarn start
+  944  LOCAL_API="https://mplatform-team-f-stack-1.dev.mint.ai" yarn start
+  945  LOCAL_API="https://mplatform-team-f-stack-1.dev.mint.ai" yarn start
+  946  cd packages/notifications && yarn watch
+  947  git push
+  948  git push
+  949  node -v
+  950  cd ~/.ssh
+  951  ls
+  952  help cd
+  953  /help
+  954  cd Desktop
+  955  ls
+  956  cd programming
+  957  ls
+  958  man cd
+  959  ls
+  960  cd Desktop
+  961  ls
+  962  touch VladaLubitPisun.txt
+  963  touch VladaLubitPisun.json
+  964  mkdir VladaMalinka
+  965  cd VladaMalinka
+  966  ls
+  967  cd ../
+  968  rm VladaLubitPisun.json
+  969  rm VladaLubitPisun.txt
+  970  rm VladaMalinka
+  971  rmdir VladaMalinka
+  972  clear
+  973  git--version
+  974  git - version
+  975  git --version
+  976  ls
+  977  cls
+  978  clear
+  979  ls
+  980  cd Desktop
+  981  cd ..
+  982  clear
+  983  ls
+  984  cd Desktop
+  985  ls
+  986  cd..
+  987  clear
+  988  mkdir Lesson
+  989  touch vlada.txt
+  990  vim vlada.txt
+  991  nano vlada.txt
+  992  cat vlada.txt
+  993  pwd
+  994  cp/Users/macbook/Desktop/vlada.txt /Users/macbook/Downloads
+  995  rm vlada.txt
+  996  ping google.com
+  997  whoami
+  998  touch text.txt
+  999  chmod 777 text.txt
+ 1000  clear
+ 1001  cd git
+ 1002  git config --global user.name "Vlada Pasiuk"
+ 1003   git config --global user.email malinka2515nokia@gmail.com
+ 1004  git config --global user.name "Vlada Pasiuk"
+ 1005  cd desktop
+ 1006  ls
+ 1007  cd git
+ 1008  git config.email
+ 1009  git config user.email
+ 1010  git config user.name
+ 1011  git clone https://github.com/Vladapasiuk/Lesson-.git
+ 1012  cd Lesson-
+ 1013  git status
+ 1014  touch new.txt
+ 1015  git status
+ 1016  git add new.txt
+ 1017  git status
+ 1018  git commit-m "new file created"
+ 1019  git commit -m "New file created"
+ 1020  git status
+ 1021  git log
+ 1022  git log
+ 1023  git branch
+ 1024  git checkout -b New_branch
+ 1025  git branch
+ 1026  git checkout main
+ 1027  git checkout New_branch
+ 1028  nano.txt
+ 1029  nano new.txt
+ 1030  git status
+ 1031  git checkout main
+ 1032  git merge New_branch
+ 1033  git branch
+ 1034  git status
+ 1035  git commit
+ 1036  git checkout New_branch
+ 1037  git merge main
+ 1038  git status
+ 1039  git commit
+ 1040  git checkout main
+ 1041  git status
+ 1042  git commit -m "New modified"
+ 1043  git add new.txt
+ 1044  git status
+ 1045  git commit -m "New modified"
+ 1046  clear
+ 1047  cd
+ 1048  ls
+ 1049  cd desktop
+ 1050  ls
+ 1051  cd git
+ 1052  history -c && rm ~/.bash_history
+ 1053  git clone https://github.com/Vladapasiuk/HW_10.git
+ 1054  cd HW_10
+ 1055  touch text_ignore.txt
+ 1056  nano .gitignore
+ 1057  git status
+ 1058  git add .gitignore
+ 1059  git status
+ 1060  nano .gitignore
+ 1061  git status
+ 1062  git add.
+ 1063  git add .
+ 1064  git status
+ 1065  git commit -m "Added changes to .gitignore"
+ 1066  git status
+ 1067  touch main_test.txt
+ 1068  git add.
+ 1069  git add .
+ 1070  git commit -m "Added changes to main_test"
+ 1071  git checkout -b develop
+ 1072  git checkout develop
+ 1073  touch develop_test.txt
+ 1074  git add .
+ 1075  git commit -m "Added changes to develop_test"
+ 1076  nano develop_test.txt
+ 1077  git status
+ 1078  git add .
+ 1079  git status
+ 1080  git commit -m "Added changes to develop_test"
+ 1081  git checkout main
+ 1082  git merge develop
+ 1083  git log
